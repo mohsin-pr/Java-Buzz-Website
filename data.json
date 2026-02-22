@@ -1,0 +1,124 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "date": "Feb 10, 2025",
+      "dateISO": "2025-02-10",
+      "emoji": "🌍",
+      "tag": "Origin Story",
+      "title": "The Long Road From Farm to Your Cup",
+      "excerpt": "We trace our Ethiopian Yirgacheffe beans across three continents and one small cooperative run entirely by women.",
+      "readTime": "5 min read",
+      "author": "Mia Torres",
+      "link": "#blog"
+    },
+    {
+      "id": 2,
+      "date": "Jan 28, 2025",
+      "dateISO": "2025-01-28",
+      "emoji": "⚗️",
+      "tag": "Brew Science",
+      "title": "Cold Brew Science: Why Patience Wins",
+      "excerpt": "Our head barista breaks down extraction time, grind size, and the chemistry behind a silky-smooth cold brew concentrate.",
+      "readTime": "4 min read",
+      "author": "Rahul Desai",
+      "link": "#blog"
+    },
+    {
+      "id": 3,
+      "date": "Jan 14, 2025",
+      "dateISO": "2025-01-14",
+      "emoji": "🎨",
+      "tag": "Craft",
+      "title": "Latte Art Is Not What You Think",
+      "excerpt": "It's not magic — it's microfoam physics. Learn the basics that our baristas spend months perfecting to pour those signature rosettas.",
+      "readTime": "3 min read",
+      "author": "Sophie Crane",
+      "link": "#blog"
+    },
+    {
+      "id": 4,
+      "date": "Jan 05, 2025",
+      "dateISO": "2025-01-05",
+      "emoji": "🌱",
+      "tag": "Sustainability",
+      "title": "Zero-Waste Coffee: Our 2025 Pledge",
+      "excerpt": "From compostable cups to spent-grounds garden kits, here's how Java Buzz is rethinking waste — one brew at a time.",
+      "readTime": "6 min read",
+      "author": "Mia Torres",
+      "link": "#blog"
+    },
+    {
+      "id": 5,
+      "date": "Dec 20, 2024",
+      "dateISO": "2024-12-20",
+      "emoji": "❄️",
+      "tag": "Seasonal",
+      "title": "Winter Blends: The Story Behind Our Holiday Roast",
+      "excerpt": "Cardamom, clove, and a hint of orange peel. We reveal the tasting notes — and the supplier — behind our most requested seasonal blend.",
+      "readTime": "4 min read",
+      "author": "Lena Kaufmann",
+      "link": "#blog"
+    },
+    {
+      "id": 6,
+      "date": "Dec 08, 2024",
+      "dateISO": "2024-12-08",
+      "emoji": "🫘",
+      "tag": "Coffee 101",
+      "title": "Single-Origin vs. Blend: Which Should You Order?",
+      "excerpt": "The eternal debate, settled. We walk you through flavour profiles, roast levels, and exactly when a blend beats a single-origin.",
+      "readTime": "5 min read",
+      "author": "Rahul Desai",
+      "link": "#blog"
+    },
+    {
+      "id": 7,
+      "date": "Nov 25, 2024",
+      "dateISO": "2024-11-25",
+      "emoji": "🏆",
+      "tag": "Awards",
+      "title": "We Won Best Independent Café in SF — Here's What It Means",
+      "excerpt": "Humbled, caffeinated, and grateful. Our founder writes about the journey from a 200 sq-ft kiosk to an award-winning neighbourhood staple.",
+      "readTime": "7 min read",
+      "author": "James Okello",
+      "link": "#blog"
+    },
+    {
+      "id": 8,
+      "date": "Nov 12, 2024",
+      "dateISO": "2024-11-12",
+      "emoji": "🌙",
+      "tag": "Culture",
+      "title": "Late Night Espresso: A Defence of Evening Coffee",
+      "excerpt": "Why do Italians drink espresso after dinner without losing sleep? We dig into caffeine metabolism, culture, and the art of savouring.",
+      "readTime": "4 min read",
+      "author": "Sophie Crane",
+      "link": "#blog"
+    },
+    {
+      "id": 9,
+      "date": "Oct 30, 2024",
+      "dateISO": "2024-10-30",
+      "emoji": "🔥",
+      "tag": "Roasting",
+      "title": "Inside Our Roastery: The 12-Minute Transformation",
+      "excerpt": "Dark roast is not burnt coffee. Light roast is not weak. Follow a single green bean through our drum roaster and discover what heat really does.",
+      "readTime": "6 min read",
+      "author": "Lena Kaufmann",
+      "link": "#blog"
+    },
+    {
+      "id": 10,
+      "date": "Oct 15, 2024",
+      "dateISO": "2024-10-15",
+      "emoji": "💧",
+      "tag": "Water & Brewing",
+      "title": "Water Is 98% of Your Coffee — Are You Ignoring It?",
+      "excerpt": "Mineral content, pH, and temperature all shape your cup more than any fancy bean. Here's the water science your barista probably never told you.",
+      "readTime": "5 min read",
+      "author": "Rahul Desai",
+      "link": "#blog"
+    }
+  ]
+}
